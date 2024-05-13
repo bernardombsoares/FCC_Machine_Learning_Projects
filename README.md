@@ -1,4 +1,4 @@
-# FreeCodeCamp-Projects
+# Machine Learning with Python course from FreeCodeCamp
 
 ## Contains all 5 coding projects from the Machine Learning with Python course from FreeCodeCamp
 
